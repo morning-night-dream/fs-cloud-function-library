@@ -1,7 +1,7 @@
 package sample
 
-import "fmt"
+import "log"
 
 func Sample() {
-	fmt.Println("sample method called")
+	log.Println("sample method called")
 }
